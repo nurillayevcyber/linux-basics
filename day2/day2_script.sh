@@ -13,4 +13,4 @@ umask 027
 echo "My secret data" > secret.txt
 chmod 600 secret.txt
 
-echo "✅ Day 2 script executed successfully"
+echo "✅ Day 2 script executed successfully "
