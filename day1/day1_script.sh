@@ -9,5 +9,5 @@ chmod 600 a.txt
 chmod 755 b_renamed.txt
 sudo apt list --upgradable > upgrade_list.txt
 ls -l > result.txt
-echo "✅ Day 1 complete!"
+echo "✅ Day 1 complete! "
 
