@@ -64,4 +64,4 @@ Shows output of `apt list --upgradable` displaying available package updates
 
 ### ✅ Status
 
-All Day 1 tasks were completed successfully. Files, directories, and permissions were handled manually and through scripting.
+All Day 1 tasks were completed successfully. Files, directories  and permissions were handled manually and through scripting.
