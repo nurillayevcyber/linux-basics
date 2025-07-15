@@ -18,12 +18,12 @@ The goal of Day 2 was to practice permission management using `chmod`, `chown`, 
 
 ### ⚙️ Practical Tasks
 
-- Created a file `secret.txt` and inspected its permissions
-- Applied ownership changes with `sudo chown`
-- Updated file permissions using `chmod`
-- Configured default permission behavior using `umask`
-- Created and edited `config.txt` using `nano`
-- Installed and used `tree` to view directory structure
+- Created a file `secret.txt` and inspected its permissions  
+- Applied ownership changes with `sudo chown`  
+- Updated file permissions using `chmod`  
+- Configured default permission behavior using `umask`  
+- Created and edited `config.txt` using `nano`  
+- Installed and used `tree` to view directory structure  
 - Wrote and executed `day2_script.sh` to automate key operations
 
 ---
@@ -37,20 +37,20 @@ The goal of Day 2 was to practice permission management using `chmod`, `chown`, 
 ### 📸 Screenshots
 
 #### 1. File creation and permission settings  
-Commands used: `touch`, `ls -l`, `sudo chown`, `chmod`, `umask`
-![Screenshot1](./images/Screenshot1.png)
+Commands used: `touch`, `ls -l`, `sudo chown`, `chmod`, `umask`  
+![screenshot1](./images/screenshot1.png)
 
 #### 2. Editing configuration file using nano  
-Config file with values such as `port=8080`, `debug=true`
-![Screenshot2](./images/Screenshot2.png)
+Config file with values such as `port=8080`, `debug=true`  
+![screenshot2](./images/screenshot2.png)
 
 #### 3. Script execution  
-Shell script to automate file and permission tasks
-![Screenshot3](./images/Screenshot3.png)
+Shell script to automate file and permission tasks  
+![screenshot3](./images/screenshot3.png)
 
 #### 4. Directory structure with tree  
-Visual layout of files and directories using `tree`
-![Screenshot4](./images/Screenshot4.png)
+Visual layout of files and directories using `tree`  
+![screenshot4](./images/screenshot4.png)
 
 ---
 
