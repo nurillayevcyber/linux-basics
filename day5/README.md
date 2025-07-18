@@ -60,4 +60,4 @@ The goal of Day 5 was to enhance remote access security by configuring SSH key-b
 
 ### ✅ Status
 
-All Day 5 tasks were successfully completed. 
+All Day 5 tasks were successfully completed and documented. 
